@@ -1,0 +1,7 @@
+@charset "UTF-8";
+div.para01{
+	background-color:lightgray;
+	padding:5px;
+	border-radius: 5px;
+	overflow: auto;
+}

@@ -1,0 +1,13 @@
+@charset "UTF-8";
+div.side{
+	background-color:skyblue;
+	color:white;
+	padding:5px;
+	border-radius: 5px;
+	margin-bottom: 5px;
+	overflow: auto;
+}
+.sideloc{
+	float:right;
+	width:20%;
+}
