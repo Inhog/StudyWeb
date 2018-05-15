@@ -1,4 +1,5 @@
 @charset "UTF-8";
+
 h1.style01{
 	margin: 5px;
 	padding: 0 0 0 0;
@@ -9,18 +10,4 @@ p.style01{
 	margin: 5px;
 	padding: 0 0 0 0;
 	color:white;
-}
-.stylesheetlist{
-	float:left;
-	width:20%;
-	height:200px;
-	overflow: auto;
-}
-.mainText{
-	float:center;
-	width:100%;
-}
-.together{
-	content:"";
-	clear:both;
 }
